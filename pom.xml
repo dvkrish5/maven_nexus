@@ -5,7 +5,7 @@
 
   <groupId>cargo</groupId>
   <artifactId>tracker</artifactId>
-  <version>1.0</version>
+  <version>1.1-SNAPSHOT</version>
 
   <name>tracker</name>
   <!-- FIXME change it to the project's website -->
@@ -75,7 +75,7 @@
    <connection>scm:git:https://github.com/dvkrish5/maven_nexus.git</connection>
        <url>http://github.com/user/project</url>
     <developerConnection>scm:git:https://github.com/dvkrish5/maven_nexus.git</developerConnection>
-    <tag>tracker-1.0</tag>
+    <tag>home-1.0-SNAPSHOT</tag>
   </scm>
   
 <build>
